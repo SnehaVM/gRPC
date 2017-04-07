@@ -1,1 +1,1 @@
-A remote GRPC service to encrypt credit/debit using Fernet
+A remote gRPC service to encrypt data using Fernet
